@@ -118,8 +118,6 @@ public class GameStatistics {
 		return match;
 	}
 	
-	
-
 	public void newMatchReport(Date startDate) {
 		this.addMatch(startDate, new Match(startDate));
 		this.setCurrentMatch(startDate);
