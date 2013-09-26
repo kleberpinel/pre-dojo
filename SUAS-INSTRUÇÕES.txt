@@ -1,2 +1,4 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+- A classe com.dojo.report.GameStatisticsTest tem a execução dos testes propostos para solução básica. Infelizmente ainda não tive tempo de concluir com as soluções do problema bonus, mas muito bem bolado. Parabens!
+- Montei a estrutura base que da suporte a resolução dos problemas bonus
+- Falta bastante validações para ser um jogo de verdade, mas para leitura de um log e analise do mesmo, partindo do ponto que as informações são consistentes, considero uma solução válida
+- Obrigado
